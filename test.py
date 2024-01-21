@@ -116,7 +116,7 @@ class CedrTrainning():
         test_rank_file = open(test_rank_file_names, 'w', encoding='UTF-8')
         test_rank_base_file = open(test_rank_base_file_names, 'w', encoding='UTF-8')       
     
-    
+        line_idx = 0
         for idx,line in enumerate(test_querys_objs) :
             queries = {}
             array_line = line.split('\t')
