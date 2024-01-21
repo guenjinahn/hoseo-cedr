@@ -1,0 +1,11 @@
+ir-evaluation-py==1.0.0
+numpy
+python-dateutil==2.8.2
+python-mimeparse==1.6.0
+pytools==2023.1.1
+pytorch-pretrained-bert==0.6.2
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+tqdm==4.66.1
+
